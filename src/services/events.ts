@@ -1,5 +1,5 @@
-import fetch from "node-fetch";
-import { client } from "../client";
+import { client } from "../lib/client";
+import { fetch } from "../lib/fetch";
 import { Event } from "../types/event";
 
 const getDayInterval = () => {
