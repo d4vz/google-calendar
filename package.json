@@ -33,13 +33,6 @@
       "description": "Show calendar events in Google Calendar",
       "mode": "view",
       "icon": "google-calendar.png"
-    },
-    {
-      "name": "logout",
-      "title": "Logout",
-      "description": "Logout in Google Calendar",
-      "mode": "view",
-      "icon": "google-calendar.png"
     }
   ],
   "dependencies": {
