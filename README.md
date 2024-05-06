@@ -28,12 +28,6 @@ Raycast extension to manage your Gmail inbox.
       src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"
       alt="PRs welcome!"
     />
-    <a href="https://twitter.com/intent/follow?screen_name=tonka_2000">
-      <img
-        src="https://img.shields.io/twitter/follow/tonka_2000.svg?label=Follow%20@tonka_2000"
-        alt="Follow @tonka_2000"
-      />
-    </a>
   </p>
 </div>
 
