@@ -53,7 +53,7 @@ You can search on Google or YouTube to get a better process description like e.g
 
 - Enable the `Gmail API`
 
-  1. Click [here](https://console.cloud.google.com/apis/library/gmail.googleapis.com)
+  1. Click [here](https://console.cloud.google.com/apis/library/calendar-json.googleapis.com?project=sincere-almanac-422320-a6)
   2. Press the `Enable` button
 
 - Enable OAuth
