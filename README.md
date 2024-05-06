@@ -1,3 +1,3 @@
-# Google Calendar
+# Raycast Google Calendar
 
-Show Google calendar 
+A open-source extension to provide Google Calendar Utilities for [Raycast](https://www.raycast.com/).
