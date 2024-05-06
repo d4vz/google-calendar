@@ -1,6 +1,10 @@
-import { OAuth } from "@raycast/api";
+import { OAuth, getPreferenceValues } from "@raycast/api";
 
-export const clientId = process.env.GOOGLE_CLIENT_ID as string;
+// "1027777289546-dqcvms1bih7g1d0v6nu88fieavd1ku31.apps.googleusercontent.com";
+
+const preferences = getPreferenceValues();
+
+export const clientId = preferences.clientId;
 
 export const client = new OAuth.PKCEClient({
   redirectMethod: OAuth.RedirectMethod.AppURI,
