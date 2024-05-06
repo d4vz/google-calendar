@@ -1,6 +1,6 @@
 import { OAuth } from "@raycast/api";
 
-export const clientId = "1027777289546-dqcvms1bih7g1d0v6nu88fieavd1ku31.apps.googleusercontent.com";
+export const clientId = process.env.GOOGLE_CLIENT_ID as string;
 
 export const client = new OAuth.PKCEClient({
   redirectMethod: OAuth.RedirectMethod.AppURI,
