@@ -7,7 +7,7 @@ interface EventsListProps {
 }
 
 const formatDate = (date: string) => {
-  return date && new Date(date).toLocaleString("pt-BR", { timeZone: "UTC" });
+  return date && new Date(date).toLocaleString();
 };
 
 export const EventsList: React.FC<EventsListProps> = ({ events, isLoading }) => {
