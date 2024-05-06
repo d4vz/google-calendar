@@ -11,6 +11,7 @@ export const useGetUserCalendars = () => {
         showFailureToast(error, {
           title: "Failed to fetch user calendars",
         });
+        return [];
       }
     },
     [],

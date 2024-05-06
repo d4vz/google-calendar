@@ -11,6 +11,7 @@ export const useGetDailyCalendarEvents = (calendarId: string) => {
         showFailureToast(error, {
           title: "Failed to fetch daily calendar events",
         });
+        return [];
       }
     },
     [calendarId],
