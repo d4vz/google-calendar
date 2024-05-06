@@ -6,7 +6,8 @@
   "icon": "google-calendar-512px-512px.png",
   "author": "davi_orlandi",
   "categories": [
-    "Applications"
+    "Applications",
+    "Productivity"
   ],
   "license": "MIT",
   "preferences": [
