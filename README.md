@@ -8,7 +8,7 @@
     Google Calendar
   </h1>
 
-Raycast extension to manage your Gmail inbox.
+Raycast extension to manage your Google Calendar Events.
 
   <p>
     <a href="https://www.raycast.com/tonka3000/gmail">
