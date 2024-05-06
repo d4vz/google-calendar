@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://github.com/raycast/extensions/blob/main/extensions/gmail/assets/gmail.png?raw=true"
+    src="https://github.com/d4vz/google-calendar/blob/master/assets/google-calendar.png?raw=true"
     width="50"
   />
 
@@ -8,7 +8,7 @@
     Google Calendar
   </h1>
 
-Raycast extension to manage your Gmail inbox.
+Raycast extension to manage your Google Calendar Events.
 
   <p>
     <a href="https://www.raycast.com/tonka3000/gmail">
@@ -28,12 +28,6 @@ Raycast extension to manage your Gmail inbox.
       src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"
       alt="PRs welcome!"
     />
-    <a href="https://twitter.com/intent/follow?screen_name=tonka_2000">
-      <img
-        src="https://img.shields.io/twitter/follow/tonka_2000.svg?label=Follow%20@tonka_2000"
-        alt="Follow @tonka_2000"
-      />
-    </a>
   </p>
 </div>
 
