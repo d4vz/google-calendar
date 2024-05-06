@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://github.com/raycast/extensions/blob/main/extensions/gmail/assets/gmail.png?raw=true"
+    src="https://github.com/d4vz/google-calendar/blob/master/assets/google-calendar.png?raw=true"
     width="50"
   />
 
