@@ -3,7 +3,7 @@
   "name": "google-calendar",
   "title": "Google Calendar",
   "description": "Show Google calendar events in raycast",
-  "icon": "google-calendar.png",
+  "icon": "google-calendar-512px-512px.png",
   "author": "davi_orlandi",
   "categories": [
     "Applications"
