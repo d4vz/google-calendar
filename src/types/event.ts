@@ -122,7 +122,6 @@ export interface Event {
   };
   workingLocationProperties?: {
     type: string;
-    homeOffice?: any; // Define a specific type for homeOffice
     customLocation?: {
       label: string;
     };
